@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="brzezimac.home.aster.pl" id="0" name="GdServiceTests" package="pl.awesome.grails.plugins.gdbridge" tests="3" time="3.081" timestamp="2012-03-05T21:59:25">
+      <properties />
+
+      <testcase classname="pl.awesome.grails.plugins.gdbridge.GdServiceTests" name="testActive" time="1.981" />
+
+      <testcase classname="pl.awesome.grails.plugins.gdbridge.GdServiceTests" name="testGetInfo" time="0.554" />
+
+      <testcase classname="pl.awesome.grails.plugins.gdbridge.GdServiceTests" name="testScriptPath" time="0.033" />
+
+      <system-out />
+
+      <system-err><![CDATA[--Output from testActive--
+--Output from testGetInfo--
+--Output from testScriptPath--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

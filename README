@@ -1,0 +1,4 @@
+Grails Plugin with bridge to GD graphic library.
+
+For now it uses bridge by PHP script, in plans it will be by JNI
+This file was modified by IntelliJ IDEA 11.0.2 for binding GitHub repository
